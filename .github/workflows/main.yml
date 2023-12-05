@@ -19,4 +19,4 @@ jobs:
 
       - name: Deploy to AWS S3
         run: |
-          aws s3 sync . s3://www2.profesantos.cloud
+          aws s3 sync . s3://demopararedshiftsantos
